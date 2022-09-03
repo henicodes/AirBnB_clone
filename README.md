@@ -1,4 +1,5 @@
 # 0x00. AirBnB clone - The console
+This is the first step towards building your first full web application: the AirBnB clone. This first step is very important because you will use what you build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end integration…
 ### Table of contents
 - 01 - Introduction
 - 02 - Environment
@@ -19,7 +20,7 @@ Each task is linked and will help you to:
 ### 02 - Environment
 All the development and testing was runned over an operating system Ubuntu 20.04 LTS using programming language Python 3.8.3. The editors used were VIM 8.1.2269, VSCode 1.6.1 and Atom 1.58.0 . Control version using Git 2.25.1.
 ### 03 - Installation
-git clone https://github.com/henicodes/AirBnB_clone.git
+`git clone https://github.com/henicodes/AirBnB_clone.git`
 - cd into the AirBnB_clone
 - run `./console.py`
 ### 04 - Execution
