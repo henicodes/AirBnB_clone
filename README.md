@@ -1,5 +1,9 @@
 # 0x00. AirBnB clone - The console
-This is the first step towards building your first full web application: the AirBnB clone. This first step is very important because you will use what you build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end integration…
+The goal of the project is to deploy on your server a simple copy of the AirBnB website.
+- A command interpreter to manipulate data without a visual interface, like in a Shell (perfect for development and debugging)
+- A website (the front-end) that shows the final product to everybody: static and dynamic
+- A database or files that store data (data = objects)
+- An API that provides a communication interface between the front-end and your data (retrieve, create, delete, update them)
 ### Table of contents
 - 01 - Introduction
 - 02 - Environment
