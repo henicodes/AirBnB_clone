@@ -45,5 +45,5 @@ All the test are defined in the tests folder.
 ### 06 - Usage
 ### 07 - Authors
 - Henok Assefa
- - henicodes@gmail.com
+  - `henicodes@gmail.com`
 - Yonas Addis
