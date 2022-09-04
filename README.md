@@ -46,5 +46,5 @@ All the test are defined in the tests folder.
 ### 07 - Authors
 - Henok Assefa
   - `henicodes@gmail.com`
-- yonas gebreysus
+- yonas addis
   - `addyonas@gmail.com`
