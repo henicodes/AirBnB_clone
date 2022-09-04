@@ -45,4 +45,6 @@ All the test are defined in the tests folder.
 ### 06 - Usage
 ### 07 - Authors
 - Henok Assefa
-- Yonas Addis
+  - `henicodes@gmail.com`
+- yonas gebreysus
+  - `addyonas@gmail.com`
